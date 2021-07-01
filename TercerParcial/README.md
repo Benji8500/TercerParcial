@@ -1,3 +1,1 @@
 # TercerExamenPatrones
-# TercerExamenPatrones
-# TercerParcial
